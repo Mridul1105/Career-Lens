@@ -156,6 +156,9 @@ def analyze():
 
     except Exception as e:
         return jsonify({"error": str(e)}), 500
+@app.route("/debug")
+def debug():
+    return "DEBUG OK - Chatbot version running"
 
 # ===============================
 # RUN
