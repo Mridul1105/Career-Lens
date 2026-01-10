@@ -8,7 +8,7 @@ from flask_cors import CORS
 # ===============================
 
 MODEL_NAME = "models/gemini-2.5-flash"
-genai.configure(api_key=os.environ.get("AIzaSyC6AK_75woI2rN1LlvE-HuqhmpLJIekVpE"))
+genai.configure(api_key=os.environ.get("GEMINI_API_KEY"))
 
 # ===============================
 # GEMINI HELPER
