@@ -1,4 +1,4 @@
-**🚀 **CareerLens: Agentic AI-Powered Career Counsellor****
+# <ins> **🚀 **CareerLens: Agentic AI-Powered Career Counsellor****</ins>
 💡 An intelligent AI counsellor that helps students choose the right stream, degree, and career path using multi-agent AI.
 
 **✨ What is CareerLens?**
