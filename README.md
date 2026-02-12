@@ -7,7 +7,7 @@
 
 ### **🎯 Built to support UN SDG 4 – Quality Education**
 
-###**🔥 Features**  
+### **🔥 Features**  
 ✅ AI chatbot interaction  
 ✅ Multi-Agent reasoning  
 ✅ Stream suggestion (Science / Commerce / Humanities)  
@@ -15,17 +15,17 @@
 ✅ Skill gap analysis  
 ✅ Personalized learning roadmap  
 
-###**🧠 How it Works**  
+### **🧠 How it Works**  
 Student → Chatbot → Profile Analysis → Career Engine → Skill Suggestions  
 Multiple AI agents collaborate to deliver human-like guidance.  
 
-###**🛠 Tech Stack**  
+### **🛠 Tech Stack**  
 - Python  
 - Flask  
 - Gemini API  
 - Colab  
 
-###**🌍 Impact**  
+### **🌍 Impact**  
 📈 Better decisions  
 🎯 Right career paths  
 🚫 Fewer dropouts  
