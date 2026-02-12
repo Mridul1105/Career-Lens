@@ -7,13 +7,13 @@
 
 **🎯 Built to support UN SDG 4 – Quality Education**
 
-**🔥 Features**
-✅ AI chatbot interaction
-✅ Multi-Agent reasoning
-✅ Stream suggestion (Science / Commerce / Humanities)
-✅ Degree & career recommendations
-✅ Skill gap analysis
-✅ Personalized learning roadmap
+**🔥 Features**  
+✅ AI chatbot interaction  
+✅ Multi-Agent reasoning  
+✅ Stream suggestion (Science / Commerce / Humanities)  
+✅ Degree & career recommendations  
+✅ Skill gap analysis  
+✅ Personalized learning roadmap  
 
 **🧠 How it Works**
 Student → Chatbot → Profile Analysis → Career Engine → Skill Suggestions
